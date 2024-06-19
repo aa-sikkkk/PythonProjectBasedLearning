@@ -40,10 +40,21 @@ Below are the projects currently included in this repository:
 - **Description:** Program to check wheather a given number or string is palindrome or not.
 - **Link:** [Palindrome Checker](https://github.com/aa-sikkkk/PythonProjectBasedLearning/blob/main/palidromeChecker.py)
 
+### 2DMatrix-sum
+- **Description:** Program to perform 2D Matrix sum.
+- **Link:** [2D MATRIX SUM](https://github.com/aa-sikkkk/PythonProjectBasedLearning/blob/main/2DMatrix-sum.py)
+
+
 ### Hide Credit Card Number
 
 - **Description:** Program to hide the last four digits of a credit card.
 - **Link:** [Credit Card](https://github.com/aa-sikkkk/PythonProjectBasedLearning/blob/main/creditCard.py)
+
+  
+### Quadrant Checker
+
+- **Description:** Program to Find the check Quadrant.
+- **Link:** [quadrant](https://github.com/aa-sikkkk/PythonProjectBasedLearning/blob/main/quadrantCheck.py)
 
 ### Calculator Project
 
