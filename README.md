@@ -29,6 +29,12 @@ We encourage contributions from the community to expand this repository with mor
 
 Below are the projects currently included in this repository:
 
+### Armstrong number Checker
+
+- **Description:** Program to check wheather a given number is Armstrong or not.
+- **Link:** [Armstrong Checker](https://github.com/aa-sikkkk/PythonProjectBasedLearning/blob/main/armstrong.py)
+  
+
 ### Palindrome Checker
 
 - **Description:** Program to check wheather a given number or string is palindrome or not.
